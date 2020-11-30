@@ -4,5 +4,5 @@ metadata:
   name: gitops
   namespace: gitops-chn-ns
 spec:
-  pathname: 'https://github.com/fxiang1/app-samples.git'
+  pathname: 'https://github.com/openshift-tigerteam/app-samples.git'
   type: GitHub
